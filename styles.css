@@ -76,8 +76,7 @@
   left: 12vmin;
 }
 
-/* Both wagglers (hands) have */
-/* much in common */
+
 #left-waggler, #right-waggler {
   position: absolute;
   width: 4vmin;
@@ -88,9 +87,7 @@
   border-top: 0;
 }
 
-/* But are in different */ 
-/* 1. locations and */
-/* 2. orientations */
+
 #left-waggler {
   top: 22vmin;
   left: 6vmin;
